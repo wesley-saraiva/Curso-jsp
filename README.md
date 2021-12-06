@@ -1,6 +1,5 @@
 # Curso-jsp
 Projeto feito atraves da linguagem Java na parte back-end.
 Utilizando linguagem SQL com banco de dados PostgreSQL.
-Com padrao de programação model,view,controller e dao.
-Utilizando Servlets, e por ultimo utlizando na parte front-end o JSP e JSTL.
+Utilizando Servlets, e por ultimo utilizando na parte front-end o JSP(linguagem de script) e JSTL(componente da plataforma de desenvolvimento web Java EE).
 
